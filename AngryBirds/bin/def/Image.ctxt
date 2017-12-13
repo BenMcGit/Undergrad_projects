@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Image()
+comment0.text=\tpost\:\ \ \ an\ empty\ image\ view\ is\ instantiated\r\n\ \ \ \ \ \ \ \ \ \ and\ \ getX()\ \=\=\ 0\ \ \ and\ \ getY()\ \=\=\ 0\ \ \ \r\nand\ \ getWidth()\ \=\=\ 10\ \ and\ \ getHeight()\ \=\=\ 10
+comment1.params=x\ y\ w\ h
+comment1.target=Image(int,\ int,\ int,\ int)
+comment1.text=\tpre\:\ \ \ \ w\ >\=\ 0\ \ \ and\ \ \ h\ >\=\ 0\r\n\ \ post\:\ \ \ an\ empty\ image\ view\ is\ instantiated\r\n\ \ \ \ \ \ \ \ \ \ and\ \ getX()\ \=\=\ x\ \ \ and\ \ getY()\ \=\=\ y\ \ \ \r\nand\ \ getWidth()\ \=\=\ w\ \ and\ \ getHeight()\ \=\=\ h
+comment2.params=x\ y\ w\ h\ s
+comment2.target=Image(int,\ int,\ int,\ int,\ java.lang.String)
+comment2.text=\tpre\:\ \ \ \ w\ >\=\ 0\ \ \ and\ \ \ h\ >\=\ 0\r\n\ \ post\:\ \ \ getX()\ \=\=\ x\ \ \ and\ \ getY()\ \=\=\ y\ \ \ \r\n\ \ \ \ \ \ \ \ \ \ and\ \ getWidth()\ \=\=\ w\ \ and\ \ getHeight()\ \=\=\ h\r\n\ \ \ \ \ \ \ \ \ \ and\ \ Upon\ repaint\ the\ image\ displayed\ will\ be\ given\ by\ the\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ file\ with\ complete\ pathname\ specified\ as\ s\ \r\n(Note\ that\ the\ file\ should\ be\ a\ gif,\ jpeg\ or\ png)
+comment3.params=x\ y\ s
+comment3.target=Image(int,\ int,\ java.lang.String)
+comment3.text=\ \ post\:\ \ getX()\ \=\=\ x\ \ \ and\ \ getY()\ \=\=\ y\ \ \ \r\n\ \ \ \ \ \ \ \ \ \ and\ \ getWidth()\ and\ getHeight()\ are\ assigned\ by\ the\ file\r\n\ \ \ \ \ \ \ \ \ \ and\ \ Upon\ repaint\ the\ image\ displayed\ will\ be\ given\ by\ the\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ file\ with\ complete\ pathname\ specified\ as\ s\ \r\n(Note\ that\ the\ file\ should\ be\ a\ gif,\ jpeg\ or\ png)
+comment4.params=s
+comment4.target=void\ setImage(java.lang.String)
+comment4.text=\tpost\:\ \ \ Upon\ repaint\ the\ image\ displayed\ will\ be\ given\ by\ the\ \r\n\ \ \ \ \ \ \ \ \ \ file\ with\ complete\ pathname\ specified\ as\ s\ \r\n\t\t\ \ \ \ (Note\ that\ the\ file\ should\ be\ a\ gif,\ jpeg\ or\ png)\ \ \r\n\ \ \ \ \ \ \ \ \ \ and\ bestWidth\ and\ bestHeight\ are\ assigned\ by\ the\ file\r\n
+comment5.params=
+comment5.target=void\ flush()
+comment6.params=g
+comment6.target=void\ paint(java.awt.Graphics)
+numComments=7

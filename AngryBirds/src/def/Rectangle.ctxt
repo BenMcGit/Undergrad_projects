@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y\ w\ h
+comment0.target=Rectangle(int,\ int,\ int,\ int)
+comment0.text=\ post\:\ \ \ getX()\ \=\=\ x\ \ and\ \ getY()\ \=\=\ y\r\n\ \ \ \ \ \ \ \ \ \ and\ \ getWidth()\ \=\=\ w\ \ and\ getHeight()\ \=\=\ h\r\n\ \ \ \ \ \ \ \ \ \ and\ \ getBackground()\ \=\=\ Color.black\r\n
+comment1.params=g
+comment1.target=void\ paint(java.awt.Graphics)
+comment1.text=\ post\:\ \ \ this\ method\ draws\ a\ filled\ Rectangle\r\n\ \ \ \ \ \ \ \ \ \ and\ \ the\ upper\ left\ corner\ is\ (getX(),\ getY())\ \r\n\ \ \ \ \ \ \ \ \ \ and\ \ the\ rectangle's\ dimensions\ are\ getWidth()\ and\ getHeight()\r\n\ \ \ \ \ \ \ \ \ \ and\ \ the\ rectangle's\ color\ is\ getBackground()\r\n
+numComments=2

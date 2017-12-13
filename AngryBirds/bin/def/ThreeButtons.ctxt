@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ pathAction()
+comment0.text=\ The\ method\ below\ is\ an\ event\ handler\ for\ button\ clicks\ on\r\n\ \ the\ LEFT\ button\ of\ an\ object\ of\ type\ A3ButtonWindow\ \r\n
+comment1.params=
+comment1.target=void\ birdAction()
+comment1.text=\ The\ method\ below\ is\ an\ event\ handler\ for\ button\ clicks\ on\r\n\ \ the\ MID\ button\ of\ an\ object\ of\ type\ A3ButtonWindow\ \r\n
+comment2.params=
+comment2.target=void\ clearAction()
+comment2.text=\ The\ method\ below\ is\ an\ event\ handler\ for\ button\ clicks\ on\r\n\ \ the\ RIGHT\ button\ of\ an\ object\ of\ type\ A3ButtonWindow\ \r\n
+numComments=3

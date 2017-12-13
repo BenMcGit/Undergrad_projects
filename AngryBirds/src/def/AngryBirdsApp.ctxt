@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AngryBirdsApp()
+comment1.params=min\ max\ images
+comment1.target=void\ movePigs(double,\ double,\ java.lang.String)
+comment2.params=
+comment2.target=void\ create_window()
+comment3.params=
+comment3.target=void\ pathAction()
+comment4.params=
+comment4.target=void\ birdAction()
+comment5.params=
+comment5.target=java.awt.Container\ resetPoints()
+comment6.params=
+comment6.target=void\ clearAction()
+numComments=7
